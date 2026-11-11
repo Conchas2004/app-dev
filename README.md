@@ -1,3 +1,8 @@
 # app-dev
 my first repository
-my favorite series is overlord
+```
+{
+  "favorite seires/movies": "Overlord",
+  "genre": "isekai"
+}
+```
